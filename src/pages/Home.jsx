@@ -104,6 +104,7 @@ export default function Home() {
               title="Twitter"
             >
               <i className="bi bi-twitter"></i>
+              {console.llog("hello")}
             </a>
             <a
               href="#"
